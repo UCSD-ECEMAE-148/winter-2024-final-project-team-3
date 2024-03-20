@@ -83,7 +83,7 @@ Project Quack Sack seeks to develop an object-following robot. Our car is progra
 #### 3d Printed Parts & Base Plate Design
 | Camera Mount |  Jetson Mount | Base Plate |
 :-------------------------:|:-------------------------:|:-------------------------:
-[<img src="images\Top_camera_mount.PNG">](https://github.com/ECE148-WI-23-Team-1/CV-Sign-and-Person-Detection/blob/main/images/Top_camera_mount.PNG)  |  [<img src="images\Bottom_camera_mount.PNG">](https://github.com/ECE148-WI-23-Team-1/CV-Sign-and-Person-Detection/blob/main/images/Bottom_camera_mount.PNG) | [<img src="images\LIDAR_Mount.PNG">](https://github.com/ECE148-WI-23-Team-1/CV-Sign-and-Person-Detection/blob/main/images/LIDAR_Mount.PNG)
+[<img src="images\camera_Mount.PNG" width="300" height="300" />]  |  [<img src="images\Bottom_camera_mount.PNG">] | [<img src="images\Base_Plate.PNG" width="300" height="300" />]
 
 
 
