@@ -34,7 +34,6 @@ Team 3 Winter 2024
           </ul>
         <li><a href="#electronic-hardware">Electronic Hardware</a></li>
         <li><a href="autonomous-laps">Autonomous Laps</a></li>
-      </ul>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
