@@ -29,7 +29,7 @@ Team 3 Winter 2024
         <li><a href="#cad-parts">CAD Parts</a></li>
           <ul>
             <li><a href="#final-assembly">Final Assembly</a></li>
-            <li><a href="#3d-Printed-Parts-and-Base-Plate-Design">3d Printed Parts and Base Plate Design</a></li>
+            <li><a href="#printed-parts-and-base-plate-design">Printed Parts and Base Plate Design</a></li>
             <li><a href="#open-source-parts">Open Source Parts</a></li>
           </ul>
         <li><a href="#electronic-hardware">Electronic Hardware</a></li>
@@ -73,13 +73,15 @@ Project Quack Sack seeks to develop an object-following robot. Our car is progra
 ## Pre Final Project
 
 ### CAD Parts
+*Filler here*
 
-#### 3d Printed Parts and Base Plate Design
+#### Final Assembly
+*Images here*
+
+#### Printed Parts and Base Plate Design
 | Camera Mount |  Jetson Mount | Base Plate |
 :-------------------------:|:-------------------------:|:-------------------------:
 [<img src="images\Camera_Mount.png" width="300" height="300" />]  |  [<img src="images\Bottom_camera_mount.png">] | [<img src="images\base_plate.png" width="300" height="300" />]
-
-#### Final Assembly
 
 #### Open Source Parts
 | Part | CAD Model | Source |
