@@ -44,6 +44,7 @@ Team 3 Winter 2024
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
+
 <!-- TEAM MEMBERS -->
 ## Team Members
 <div align="center">
@@ -56,6 +57,7 @@ Team 3 Winter 2024
   <li>Ryan Omori - Mechanical Engineering Spec in Ctrls & Robotics (MC34) - Class of 2025</li>
   <li>Daniel Vega - Aerospace Engineering Spec in Flight Dynamics & Ctrls(MC35) - Class of 2024</li>
 </ul>
+
 <!-- Final Project -->
 ## Final Project
 
@@ -73,4 +75,57 @@ Project Quack Sack seeks to develop an object-following robot. Our car is progra
 * [Second Progress Update 3/7](https://docs.google.com/presentation/d/1FqhtvtD_XulPEkqER6wvuZKyt5m80NjzAZZ-L4SKuVQ/edit?usp=sharing)
 * [Final Progress Update 3/14](https://docs.google.com/presentation/d/1lDfH2DU8BgbXBb7jGNfDQjTwF17CYSD6O3kXAU3AJYU/edit?usp=sharing)
 
-  
+<!-- Robot Design -->
+## Robot Design
+
+### CAD Parts
+
+#### 3d Printed Parts & Base Plate Design
+| Part | CAD Model | Credits |
+| Camera Mount |  Jetson Mount | LIDAR Mount |
+:-------------------------:|:-------------------------:|:-------------------------:
+[<img src="images\Top_camera_mount.PNG">](https://github.com/ECE148-WI-23-Team-1/CV-Sign-and-Person-Detection/blob/main/images/Top_camera_mount.PNG)  |  [<img src="images\Bottom_camera_mount.PNG">](https://github.com/ECE148-WI-23-Team-1/CV-Sign-and-Person-Detection/blob/main/images/Bottom_camera_mount.PNG) | [<img src="images\LIDAR_Mount.PNG">](https://github.com/ECE148-WI-23-Team-1/CV-Sign-and-Person-Detection/blob/main/images/LIDAR_Mount.PNG)
+
+
+
+#### Open Source Parts
+| Part | CAD Model | Source |
+|------|--------|-----------|
+| Jetson Nano Case | <img src="https://github.com/kiers-neely/ucsd-mae-148-team-4/assets/161119406/6770d099-0e2e-4f8d-8072-991f1b72971f" width="400" height="300" /> | [Thingiverse](https://www.thingiverse.com/thing:3778338) |
+| Oak-D Lite Case | <img src="https://github.com/kiers-neely/ucsd-mae-148-team-4/assets/161119406/bcc64c60-d67c-47af-b0cb-f46ac7b8a4c1" width="400" height="300" /> | [Thingiverse](https://www.thingiverse.com/thing:533649) |
+
+
+### Electronic Hardware
+Below is a circuit diagram of the electronic hardware setup for the car.
+
+<img src="https://github.com/kiers-neely/ucsd-mae-148-team-4/assets/161119406/6f7501ee-382a-4590-9c0a-f8ce738efec3" width="800" height="400" />
+
+
+### Software
+#### Embedded Systems
+To program the Jetson Nano, we accessed the Jetson Nano through remote SSH connection to an embedded Linux system onboard and ran a docker container with all the necessary dependencies to run our packages. This allowed us to eliminate any incompatibility issues and to maximize resource efficiency on the Jetson. We used a variation of virtualization softwares including VMWare and WSL2 to build, test and launch our programs. 
+
+#### ROS2
+The base image pulled from Docker Hub for our project development contained the UCSD Robocar module ran on a Linux OS (Ubuntu 20.04). The Robocar module, consisting of several submodules using ROS/ROS2, was originally developed by Dominic Nightingale, a UC San Diego graduate student. His framework was built for use with a wide variety of sensors and actuation methods on scale autonomous vehicles, providing the ability to easily control a car-like robot while enabling the robot to simultaneously perform autonomous tasks.
+
+#### DonkeyCar AI
+For our early quarter course deliverables we used DonkeyCar to train a car in driving autonomous laps around a track in a simulated environment. We used Deep Learning to record visual data of driving on a simulated track and trained the car with the data to then race on a remote server. This helped us to prepare for training our physical car on an outdoor track with computer vision.
+
+<!-- Authors -->
+## Authors
+  - [@kiers-neely](https://github.com/kiers-neely)  
+
+<!-- Badges -->
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+*Thank you to my teammates, Professor Jack Silberman, and our incredible TA Arjun Naageshwaran for an amazing Winter 2024 class!*
+
+<!-- CONTACT -->
+## Contact
+
+* Kiersten | kneely@ucsd.edu
+* Jacob | jacoberobison@gmail.com 
+* Joe | hjjeong@ucsd.edu
+* Damien | dcuara@ucsd.edu
