@@ -84,9 +84,10 @@ Project Quack Sack seeks to develop an object-following robot. Our car is progra
 [<img src="images\Camera_Mount.png" width="300" height="300" />]  |  [<img src="images\Bottom_camera_mount.png">] | [<img src="images\base_plate.png" width="300" height="300" />]
 
 #### Open Source Parts
-| Part | CAD Model | Source |
-|------|--------|-----------|
-| Oak-D Lite Case | <img src="image URL here" width="400" height="300" /> | [Thingiverse](https://www.thingiverse.com/thing:533649) |
+We utilized a duck model from Thingiverse found here: (URL)
+This is our printed and painted model:
+ <img src="images\mama duck here.png">
+ We also utilized a rubber ducky model from Thingiverse found here: (https://www.thingiverse.com/thing:6429736)
 
 
 ### Electronic Hardware
