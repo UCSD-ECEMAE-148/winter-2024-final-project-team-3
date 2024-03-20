@@ -10,7 +10,7 @@
 <p>
 Team 3 Winter 2024
 </p>
-![image](https://github.com/kiers-neely/ucsd-mae-148-team-4/assets/161119406/28326ab0-fc89-44c6-8a33-15f1d827e92d)
+<img src="images\car photo here.jpg" alt="Logo" width="500" height=400">
 </div>
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -44,7 +44,33 @@ Team 3 Winter 2024
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
-
-
-
 <!-- TEAM MEMBERS -->
+## Team Members
+<div align="center">
+    <img src="images\Team.jpg" alt="Logo" width="500" height=400">
+    <p align = "center">person one (Left), person two (Middle), person three (Right)</p>
+</div>
+<h4>Team Member Major and Class </h4>
+<ul>
+  <li>Daniel Baca - Mechanical Engineering Spec in Ctrls & Robotics (MC34) - Class of 2025</li>
+  <li>Ryan Omori - Mechanical Engineering Spec in Ctrls & Robotics (MC34) - Class of 2025</li>
+  <li>Daniel Vega - Aerospace Engineering Spec in Flight Dynamics & Ctrls(MC35) - Class of 2024</li>
+</ul>
+<!-- Final Project -->
+## Final Project
+
+Project Quack Sack seeks to develop an object-following robot. Our car is programmed using custom ROS2 packages to follow anyone with the proper key. The key object is tracked on the OAKD-Lite using a model created on Roboflow. The idea may be simple, but having a follower can be useful for various reasons like carrying supplies. Using a custom Python script, our car can also seek out the key object when lost. 
+
+<!-- Primary Goals -->
+### Primary Goals
+1. Follow the key object by keeping it in the car's POV. The car will slow to a stop whenever it reaches a certain distance from the key object. In this case, the key object is a 3d printed mama duck.
+2. If the car loses sight of the key object for too long, it will go into a seeking mode. This seeking mode is a Python script built to look for the key object around the area. Once the key object is found, the duck will return to the key object and go back to following mode.
+
+### Final Project Documentation
+
+* [Final Project Proposal 2/8](https://docs.google.com/presentation/d/1moO-ZlQi4ESZR3XwmRlqZk-4W117Qocw2nV0kwnNdVw/edit?usp=sharing)
+* [First Progress Update 2/29](https://docs.google.com/presentation/d/1NAcGFi7LNld9GlBOmhneJEPiE3GNgi9s3R5NsQQY7bQ/edit?usp=sharing)
+* [Second Progress Update 3/7](https://docs.google.com/presentation/d/1FqhtvtD_XulPEkqER6wvuZKyt5m80NjzAZZ-L4SKuVQ/edit?usp=sharing)
+* [Final Progress Update 3/14](https://docs.google.com/presentation/d/1lDfH2DU8BgbXBb7jGNfDQjTwF17CYSD6O3kXAU3AJYU/edit?usp=sharing)
+
+  
