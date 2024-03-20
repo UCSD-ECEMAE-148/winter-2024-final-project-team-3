@@ -94,7 +94,7 @@ Below is a circuit diagram of the electronic hardware setup for the car.
 <img src="images\electronic_hardware.png">
 
 
-#### Autonomous Laps
+### Autonomous Laps
 Below is a youtube playlist of the car completing 3 autonomous laps using the DonkeyCar framework under different conditions. 
 
 [<img src="images\playlist.png">](vid link)
