@@ -24,7 +24,7 @@ Team 3 Winter 2024
         <li><a href="#primary-goals">Primary Goals</a></li>
         <li><a href="#final-project-documentation">Final Project Documentation</a></li>
       </ul>
-    <li><a href="#robot-design">Robot Design </a></li>
+    <li><a href="#pre-final-project">Pre Final Project</a></li>
       <ul>
         <li><a href="#cad-parts">CAD Parts</a></li>
           <ul>
@@ -69,8 +69,8 @@ Project Quack Sack seeks to develop an object-following robot. Our car is progra
 * [Second Progress Update 3/7](https://docs.google.com/presentation/d/1FqhtvtD_XulPEkqER6wvuZKyt5m80NjzAZZ-L4SKuVQ/edit?usp=sharing)
 * [Final Progress Update 3/14](https://docs.google.com/presentation/d/1lDfH2DU8BgbXBb7jGNfDQjTwF17CYSD6O3kXAU3AJYU/edit?usp=sharing)
 
-<!-- Robot Design -->
-## Robot Design
+<!-- Pre Final Project -->
+## Pre Final Project
 
 ### CAD Parts
 
