@@ -83,7 +83,7 @@ Project Quack Sack seeks to develop an object-following robot. Our car is progra
 #### 3d Printed Parts & Base Plate Design
 | Camera Mount |  Jetson Mount | Base Plate |
 :-------------------------:|:-------------------------:|:-------------------------:
-[<img src="images\Camera_Mount.PNG" width="300" height="300" />]  |  [<img src="images\Bottom_camera_mount.PNG">] | [<img src="images\Base_Plate.PNG" width="300" height="300" />]
+[<img src="images\Camera_Mount.png" width="300" height="300" />]  |  [<img src="images\Bottom_camera_mount.png">] | [<img src="images\Base_Plate.png" width="300" height="300" />]
 
 
 
