@@ -29,7 +29,7 @@ Team 3 Winter 2024
         <li><a href="#cad-parts">CAD Parts</a></li>
           <ul>
             <li><a href="#final-assembly">Final Assembly</a></li>
-            <li><a href="#3d printed parts & base plate design">3d Printed Parts & Base Plate Design</a></li>
+            <li><a href="#3d-printed-parts-&-base-plate-design">3d Printed Parts & Base Plate Design</a></li>
             <li><a href="#open-source-parts">Open Source Parts</a></li>
           </ul>
         <li><a href="#electronic-hardware">Electronic Hardware</a></li>
@@ -81,8 +81,7 @@ Project Quack Sack seeks to develop an object-following robot. Our car is progra
 ### CAD Parts
 
 #### 3d Printed Parts & Base Plate Design
-| Part | CAD Model | Credits |
-| Camera Mount |  Jetson Mount | LIDAR Mount |
+| Camera Mount |  Jetson Mount | Base Plate |
 :-------------------------:|:-------------------------:|:-------------------------:
 [<img src="images\Top_camera_mount.PNG">](https://github.com/ECE148-WI-23-Team-1/CV-Sign-and-Person-Detection/blob/main/images/Top_camera_mount.PNG)  |  [<img src="images\Bottom_camera_mount.PNG">](https://github.com/ECE148-WI-23-Team-1/CV-Sign-and-Person-Detection/blob/main/images/Bottom_camera_mount.PNG) | [<img src="images\LIDAR_Mount.PNG">](https://github.com/ECE148-WI-23-Team-1/CV-Sign-and-Person-Detection/blob/main/images/LIDAR_Mount.PNG)
 
