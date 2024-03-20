@@ -49,7 +49,7 @@ Team 3 Winter 2024
 <ul>
   <li>Daniel Baca - Mechanical Engineering Spec in Ctrls & Robotics (MC34) - Class of 2025</li>
   <li>Ryan Omori - Mechanical Engineering Spec in Ctrls & Robotics (MC34) - Class of 2025</li>
-  <li>Daniel Vega - Aerospace Engineering Spec in Flight Dynamics & Ctrls(MC35) - Class of 2024</li>
+  <li>Daniel Vega Zepada - Aerospace Engineering Spec in Flight Dynamics & Ctrls(MC35) - Class of 2024</li>
 </ul>
 
 <!-- Final Project -->
@@ -109,4 +109,4 @@ Below is a youtube playlist of the car completing 3 autonomous laps using the Do
 
 * Daniel Baca | dbaca@ucsd.edu
 * Ryan Omori | romori@gmail.com 
-* Daniel Vega | dvegazepg@ucsd.edu
+* Daniel Vega Zepada | dvegazepg@ucsd.edu
