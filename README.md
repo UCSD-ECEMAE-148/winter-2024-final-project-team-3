@@ -29,16 +29,11 @@ Team 3 Winter 2024
         <li><a href="#cad-parts">CAD Parts</a></li>
           <ul>
             <li><a href="#final-assembly">Final Assembly</a></li>
-            <li><a href="#3d-printed-parts-&-base-plate-design">3d Printed Parts & Base Plate Design</a></li>
+            <li><a href="#3d-Printed-Parts-and-Base-Plate-Design">3d Printed Parts and Base Plate Design</a></li>
             <li><a href="#open-source-parts">Open Source Parts</a></li>
           </ul>
         <li><a href="#electronic-hardware">Electronic Hardware</a></li>
-        <li><a href="#software">Software</a></li>
-          <ul>
-            <li><a href="#embedded-systems">Embedded Systems</a></li>
-            <li><a href="#ros2">ROS2</a></li>
-            <li><a href="#donkeycar-ai">DonkeyCar AI</a></li>
-          </ul>
+        <li><a href="autonomous-laps">Autonomous Laps</a></li>
       </ul>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -80,12 +75,12 @@ Project Quack Sack seeks to develop an object-following robot. Our car is progra
 
 ### CAD Parts
 
-#### 3d Printed Parts & Base Plate Design
+#### 3d Printed Parts and Base Plate Design
 | Camera Mount |  Jetson Mount | Base Plate |
 :-------------------------:|:-------------------------:|:-------------------------:
 [<img src="images\Camera_Mount.png" width="300" height="300" />]  |  [<img src="images\Bottom_camera_mount.png">] | [<img src="images\base_plate.png" width="300" height="300" />]
 
-
+#### Final Assembly
 
 #### Open Source Parts
 | Part | CAD Model | Source |
@@ -100,31 +95,17 @@ Below is a circuit diagram of the electronic hardware setup for the car.
 <img src="images\electronic_hardware.png">
 
 
-### Software
-#### Embedded Systems
-To program the Jetson Nano, we accessed the Jetson Nano through remote SSH connection to an embedded Linux system onboard and ran a docker container with all the necessary dependencies to run our packages. This allowed us to eliminate any incompatibility issues and to maximize resource efficiency on the Jetson. We used a variation of virtualization softwares including VMWare and WSL2 to build, test and launch our programs. 
+#### Autonomous Laps
+Below is a youtube playlist of the car completing 3 autonomous laps using the DonkeyCar framework under different conditions. 
 
-#### ROS2
-The base image pulled from Docker Hub for our project development contained the UCSD Robocar module ran on a Linux OS (Ubuntu 20.04). The Robocar module, consisting of several submodules using ROS/ROS2, was originally developed by Dominic Nightingale, a UC San Diego graduate student. His framework was built for use with a wide variety of sensors and actuation methods on scale autonomous vehicles, providing the ability to easily control a car-like robot while enabling the robot to simultaneously perform autonomous tasks.
+[<img src="images\playlist.png">](vid link)
 
-#### DonkeyCar AI
-For our early quarter course deliverables we used DonkeyCar to train a car in driving autonomous laps around a track in a simulated environment. We used Deep Learning to record visual data of driving on a simulated track and trained the car with the data to then race on a remote server. This helped us to prepare for training our physical car on an outdoor track with computer vision.
-
-<!-- Authors -->
-## Authors
-  - [@kiers-neely](https://github.com/kiers-neely)  
-
-<!-- Badges -->
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-<!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-*Thank you to my teammates, Professor Jack Silberman, and our incredible TA Arjun Naageshwaran for an amazing Winter 2024 class!*
+*Thank you to team Quack Sack, Professor Jack Silberman, and our top tier TA Arjun Naageshwaran for an amazing Winter 2024 class!*
 
 <!-- CONTACT -->
 ## Contact
 
-* Kiersten | kneely@ucsd.edu
-* Jacob | jacoberobison@gmail.com 
-* Joe | hjjeong@ucsd.edu
-* Damien | dcuara@ucsd.edu
+* Daniel Baca | dbaca@ucsd.edu
+* Ryan Omori | romori@gmail.com 
+* Daniel Vega | dvegazepg@ucsd.edu
