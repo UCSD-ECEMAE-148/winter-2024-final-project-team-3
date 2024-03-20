@@ -41,7 +41,6 @@ Team 3 Winter 2024
           </ul>
       </ul>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
-    <li><a href="#authors">Authors</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
