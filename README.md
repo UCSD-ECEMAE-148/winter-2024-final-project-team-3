@@ -76,7 +76,7 @@ Project Quack Sack seeks to develop an object-following robot. Our car is progra
 *Filler here*
 
 #### Final Assembly
-*Images here*
+*Images here*[<img src=IMG_2315.png" width="300" height="300" />]
 
 #### Printed Parts and Base Plate Design
 | Camera Mount |  Jetson Mount | Base Plate |
