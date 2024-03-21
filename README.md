@@ -49,7 +49,7 @@ Team 3 Winter 2024
 <ul>
   <li>Daniel Baca - Mechanical Engineering Spec in Ctrls & Robotics (MC34) - Class of 2025</li>
   <li>Ryan Omori - Mechanical Engineering Spec in Ctrls & Robotics (MC34) - Class of 2025</li>
-  <li>Daniel Vega Zepada - Aerospace Engineering Spec in Flight Dynamics & Ctrls(MC35) - Class of 2024</li>
+  <li>Daniel Vega Zepeda - Aerospace Engineering Spec in Flight Dynamics & Ctrls(MC35) - Class of 2024</li>
 </ul>
 
 <!-- Final Project -->
