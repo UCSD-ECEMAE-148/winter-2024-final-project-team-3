@@ -90,11 +90,13 @@ We also utilized a rubber ducky model from Thingiverse found here: (https://www.
 And an OAK-D Lite camera mount model from Thingiverse found here: (https://www.thingiverse.com/thing:5336496)
 And a Jetson Nano Case model from Thingiverse found here: (https://www.thingiverse.com/thing:3778338)
 Here are our final versions of these open source parts:
-| Wild Duck |  DJ Ducky | Oak-D Lite Mount | Jetson Nano Case |
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-[<img src="images\wild_duck.png" width="300" height="300" />]  |  [<img src="images\dj_duck.png">] | [<img src="images\OAKD.png" width="300" height="300" />] | [<img src="images\Jetson.png" width="300" height="300" />]
- 
- 
+| Wild Duck |  DJ Ducky | 
+:-------------------------:|:-------------------------:|
+[<img src="images\wild_duck.png" width="300" height="300" />]  |  [<img src="images\dj_duck.png">] |
+
+| Oak-D Lite Mount | Jetson Nano Case |
+:-------------------------:|:-------------------------:|
+[<img src="images\OAKD.png" width="300" height="300" />] | [<img src="images\Jetson.png" width="300" height="300" />] |
 
 
 ### Electronic Hardware
