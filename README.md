@@ -1,5 +1,5 @@
 <div id="top"></div>
-<h1 align="center">Quack Sack</h1>
+<h1 align="center">Quack and Track: An Autonomous Duckling Following Robot Car</h1>
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -54,12 +54,14 @@ Team 3 Winter 2024
 <!-- Final Project -->
 ## Final Project
 
-Project Quack Sack seeks to develop an object-following robot. Our car is programmed using custom ROS2 packages to follow anyone with the proper key. The key object is tracked on the OAKD-Lite using a model created on Roboflow. The idea may be simple, but having a follower can be useful for various reasons like carrying supplies. Using a custom Python script, our car can also seek out the key object when lost. 
+Project Quack and Track builds an autonomous following robot car using ROS2 for efficient control. Our unique system utilizes a custom-trained Roboflow model deployed on the OAK-D Lite camera to track a designated "key" object. This follower robot can be utilized for tasks like carrying supplies by autonomously following its designated target.  Furthermore, a custom Python script equips the robot with lost-object recovery capabilities, allowing it to locate the key object even when out of sight.
 
 <!-- Primary Goals -->
 ### Primary Goals
-1. Follow the key object by keeping it in the car's POV. The car will slow to a stop whenever it reaches a certain distance from the key object. In this case, the key object is a 3d printed mama duck.
-2. If the car loses sight of the key object for too long, it will go into a seeking mode. This seeking mode is a Python script built to look for the key object around the area. Once the key object is found, the duck will return to the key object and go back to following mode.
+
+1. <b>Accurate Object Following:</b> Develop an object-following system using ROS2 for efficient control. The robot car will utilize a custom-trained Roboflow model deployed on the OAK-D Lite camera to track a designated "mama duck" object within its field of view.
+2. <b>Lost Object Recovery:</b> Implement a "seeking mode" triggered by a custom Python script when the robot loses sight of the mama duck. This mode will actively search the surrounding area for the duck, enabling autonomous recovery.
+3. <b>Safe and Precise Stopping:</b> Upon locating the mama duck, the robot will employ controlled braking to come to a stop at a safe and pre-defined distance, ensuring the safety of both the robot and its target.
 
 ### Final Project Documentation
 
