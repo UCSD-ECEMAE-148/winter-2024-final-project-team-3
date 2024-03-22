@@ -92,7 +92,7 @@ And a Jetson Nano Case model from Thingiverse found here: (https://www.thingiver
 Here are our final versions of these open source parts:
 | Wild Duck |  DJ Ducky | 
 :-------------------------:|:-------------------------:|
-[<img src="images\wild_duck.jpg" width="320" height="240" />]  |  [<img src="images\dj_duck.png">] |
+[<img src="images\wild_duck.jpg" width="320" height="240" />]  |  [<img src="images\dj_ducky.png" width="300" height="300" >] |
 
 | Oak-D Lite Mount | Jetson Nano Case |
 :-------------------------:|:-------------------------:|
