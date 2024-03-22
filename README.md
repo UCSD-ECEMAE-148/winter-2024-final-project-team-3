@@ -42,8 +42,8 @@ Team 3 Winter 2024
 <!-- TEAM MEMBERS -->
 ## Team Members
 <div align="center">
-    <img src="images\Team.jpg" alt="Logo" width="500" height=400">
-    <p align = "center">person one (Left), person two (Middle), person three (Right)</p>
+    <<img src="images\IMG_2315.png" width="600" height="450">
+    <p align = "center">Daniel Baca (Left), Ryan Omori (Middle), Daniel Vega Zepeda (Right)</p>
 </div>
 <h4>Team Member Major and Class </h4>
 <ul>
@@ -85,10 +85,16 @@ Project Quack Sack seeks to develop an object-following robot. Our car is progra
 [<img src="images\Camera_Mount.png" width="300" height="300" />]  |  [<img src="images\Bottom_camera_mount.png">] | [<img src="images\base_plate.png" width="300" height="300" />]
 
 #### Open Source Parts
-We utilized a duck model from Thingiverse found here: (URL)
-This is our printed and painted model:
- <img src="images\mama duck here.png">
- We also utilized a rubber ducky model from Thingiverse found here: (https://www.thingiverse.com/thing:6429736)
+We utilized a wild duck model from Thingiverse found here: (https://www.thingiverse.com/thing:4797920)
+We also utilized a rubber ducky model from Thingiverse found here: (https://www.thingiverse.com/thing:6429736)
+And an OAK-D Lite camera mount model from Thingiverse found here: (https://www.thingiverse.com/thing:5336496)
+And a Jetson Nano Case model from Thingiverse found here: (https://www.thingiverse.com/thing:3778338)
+Here are our final versions of these open source parts:
+| Wild Duck |  DJ Ducky | Oak-D Lite Mount | Jetson Nano Case |
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+[<img src="images\wild_duck.png" width="300" height="300" />]  |  [<img src="images\dj_duck.png">] | [<img src="images\OAKD.png" width="300" height="300" />] | [<img src="images\Jetson.png" width="300" height="300" />]
+ 
+ 
 
 
 ### Electronic Hardware
