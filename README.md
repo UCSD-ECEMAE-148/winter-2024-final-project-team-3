@@ -41,7 +41,7 @@ Team 3 Winter 2024
 <!-- TEAM MEMBERS -->
 ## Team Members
 <div align="center">
-    <<img src="images\IMG_2315.png" width="600" height="450">
+    <img src="images\IMG_2315.png" width="600" height="450">
     <p align = "center">Daniel Baca (Left), Ryan Omori (Middle), Daniel Vega Zepeda (Right)</p>
 </div>
 <h4>Team Member Major and Class </h4>
@@ -75,13 +75,12 @@ Project Quack Sack seeks to develop an object-following robot. Our car is progra
 *Filler here*
 
 #### Final Assembly
-*Images here*
-[<img src="images\IMG_2310.png" width="400" height="300" />]
+<img src="images\IMG_2310.png" width="400" height="300" /> <img src="images\IMG_2320.jpg" width="400" height="300" /> <img src="images\IMG_2321.jpg" width="400" height="300" /> <img src="images\IMG_2322.jpg" width="400" height="300" /> <img src="images\IMG_2323.jpg" width="400" height="300" /> <img src="images\IMG_2324.jpg" width="400" height="300" />
 
 #### Printed Parts and Base Plate Design
 | Camera Mount | Base Plate |
 :-------------------------:|:-------------------------:|
-[<img src="images\Camera_Mount.png" width="300" height="300" />] | [<img src="images\base_plate.png" width="300" height="300" />]
+<img src="images\Camera_Mount.png" width="300" height="300" /> | <img src="images\base_plate.png" width="300" height="300" />
 
 #### Open Source Parts
 We utilized a wild duck model from Thingiverse found here: (https://www.thingiverse.com/thing:4797920)
@@ -91,11 +90,11 @@ And a Jetson Nano Case model from Thingiverse found here: (https://www.thingiver
 Here are our final versions of these open source parts:
 | Wild Duck |  DJ Ducky | 
 :-------------------------:|:-------------------------:|
-[<img src="images\wild_duck.jpg" width="320" height="240" />]  |  [<img src="images\dj_ducky.png" width="300" height="300" >] |
+<img src="images\wild_duck.jpg" width="320" height="240" />  |  <img src="images\dj_ducky.png" width="300" height="300" > |
 
 | Oak-D Lite Mount | Jetson Nano Case |
 :-------------------------:|:-------------------------:|
-[<img src="images\OAKD.png" width="300" height="300" />] | [<img src="images\Jetson.png" width="300" height="300" />] |
+<img src="images\OAKD.png" width="300" height="300" /> | <img src="images\Jetson.png" width="300" height="300" /> |
 
 
 ### Electronic Hardware
