@@ -74,7 +74,7 @@ Project Quack and Track builds an autonomous following robot car using ROS2 for 
 ## Pre Final Project
 
 ### CAD Parts
-*Filler here*
+Our final assembly images feature both custom and open-source components, meticulously curated for this project. We sourced the OAK-D Lite camera mount from Thingiverse. We engineered a  stand to facilitate the mount's rotation. Similarly, the Jetson Nano model, also obtained from Thingiverse, has been adapted for enhanced accessibility. Our base plate is a tailor-made design, specifically crafted for our robot, incorporating perforations solely where necessary to ensure neatness. The Mama Duck model, directly acquired from Thingiverse, has been precisely scaled to fit the Prusa i3 MK3S printer. Furthermore, the DJ Ducky represents a substantial customization of an existing Thingiverse model, meticulously adjusted in scale for dual compatibility with both the robot and the Prusa i3 MK3S. The DJ Ducky was split into two printing processes.
 
 #### Final Assembly
 <img src="images\IMG_2310.png" width="400" height="300" /> <img src="images\IMG_2320.jpg" width="400" height="300" /> <img src="images\IMG_2321.jpg" width="400" height="300" /> <img src="images\IMG_2322.jpg" width="400" height="300" /> <img src="images\IMG_2323.jpg" width="400" height="300" /> <img src="images\IMG_2324.jpg" width="400" height="300" />
@@ -86,7 +86,7 @@ Project Quack and Track builds an autonomous following robot car using ROS2 for 
 
 #### Open Source Parts
 We utilized a wild duck model from Thingiverse found here: (https://www.thingiverse.com/thing:4797920)
-We also utilized a rubber ducky model from Thingiverse found here: (https://www.thingiverse.com/thing:6429736)
+We also utilized a DJ Ducky model from Thingiverse found here: (https://www.thingiverse.com/thing:6429736)
 And an OAK-D Lite camera mount model from Thingiverse found here: (https://www.thingiverse.com/thing:5336496)
 And a Jetson Nano Case model from Thingiverse found here: (https://www.thingiverse.com/thing:3778338)
 Here are our final versions of these open source parts:
