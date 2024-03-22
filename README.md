@@ -66,8 +66,8 @@ Project Quack and Track builds an autonomous following robot car using ROS2 for 
 
 ### Demonstration
 
-<iframe src="https://drive.google.com/file/d/15CeKzwWvmTq1tlF2uuOyZgDhhNK4CLtn/preview" width="640" height="480" allow="autoplay"></iframe>
-<iframe src="https://drive.google.com/file/d/16UtHJpjuckRYiK9RRVrsMV8-uWUGzuQA/preview" width="640" height="480" allow="autoplay"></iframe>
+- [Video 1](https://drive.google.com/file/d/15CeKzwWvmTq1tlF2uuOyZgDhhNK4CLtn/view)
+- [Video 2](https://drive.google.com/file/d/16UtHJpjuckRYiK9RRVrsMV8-uWUGzuQA/view)
 
 ### Final Project Progress Slides
 
