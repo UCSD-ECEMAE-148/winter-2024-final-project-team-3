@@ -22,7 +22,8 @@ Team 3 Winter 2024
     <li><a href="#final-project">Final Project</a></li>
       <ul>
         <li><a href="#primary-goals">Primary Goals</a></li>
-        <li><a href="#final-project-documentation">Final Project Documentation</a></li>
+        <li><a href="#demonstration">Demonstration</a></li>
+        <li><a href="#final-project-progress_slides">Final Project Progress Slides</a></li>
       </ul>
     <li><a href="#pre-final-project">Pre Final Project</a></li>
       <ul>
@@ -63,7 +64,11 @@ Project Quack and Track builds an autonomous following robot car using ROS2 for 
 2. <b>Lost Object Recovery:</b> Implement a "seeking mode" triggered by a custom Python script when the robot loses sight of the mama duck. This mode will actively search the surrounding area for the duck, enabling autonomous recovery.
 3. <b>Safe and Precise Stopping:</b> Upon locating the mama duck, the robot will employ controlled braking to come to a stop at a safe and pre-defined distance, ensuring the safety of both the robot and its target.
 
-### Final Project Documentation
+### Demonstration
+
+
+
+### Final Project Progress Slides
 
 * [Final Project Proposal 2/8](https://docs.google.com/presentation/d/1moO-ZlQi4ESZR3XwmRlqZk-4W117Qocw2nV0kwnNdVw/edit?usp=sharing)
 * [First Progress Update 2/29](https://docs.google.com/presentation/d/1NAcGFi7LNld9GlBOmhneJEPiE3GNgi9s3R5NsQQY7bQ/edit?usp=sharing)
@@ -74,7 +79,7 @@ Project Quack and Track builds an autonomous following robot car using ROS2 for 
 ## Pre Final Project
 
 ### CAD Parts
-Our final assembly images feature both custom and open-source components, meticulously curated for this project. We sourced the OAK-D Lite camera mount from Thingiverse. We engineered a  stand to facilitate the mount's rotation. Similarly, the Jetson Nano model, also obtained from Thingiverse, has been adapted for enhanced accessibility. Our base plate is a tailor-made design, specifically crafted for our robot, incorporating perforations solely where necessary to ensure neatness. The Mama Duck model, directly acquired from Thingiverse, has been precisely scaled to fit the Prusa i3 MK3S printer. Furthermore, the DJ Ducky represents a substantial customization of an existing Thingiverse model, meticulously adjusted in scale for dual compatibility with both the robot and the Prusa i3 MK3S. The DJ Ducky was split into two printing processes.
+Our final assembly images feature both custom and open-source components,  curated for this project. We sourced the OAK-D Lite camera mount from Thingiverse. We designed a stand to enable rotation for the camera. Similarly, the Jetson Nano model, also obtained from Thingiverse, has been adapted for enhanced accessibility. Our base plate is a tailor-made design, specifically crafted for our robot, incorporating perforations solely where necessary to ensure neatness. The Mama Duck model, directly acquired from Thingiverse, has been precisely scaled to fit the Prusa i3 MK3S printer. Furthermore, the DJ Ducky represents a substantial customization of an existing Thingiverse model, meticulously adjusted in scale for dual compatibility with both the robot and the Prusa i3 MK3S. The DJ Ducky was split into two printing processes.
 
 #### Final Assembly
 <img src="images\IMG_2310.png" width="400" height="300" /> <img src="images\IMG_2320.jpg" width="400" height="300" /> <img src="images\IMG_2321.jpg" width="400" height="300" /> <img src="images\IMG_2322.jpg" width="400" height="300" /> <img src="images\IMG_2323.jpg" width="400" height="300" /> <img src="images\IMG_2324.jpg" width="400" height="300" />
