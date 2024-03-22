@@ -10,7 +10,7 @@
 <p>
 Team 3 Winter 2024
 </p>
-<img src="images\car photo here.jpg" alt="Logo" width="500" height=400">
+<img src="images\IMG_2320.jpg" alt="Logo" width="500" height=400">
 </div>
 <!-- TABLE OF CONTENTS -->
 <details>
