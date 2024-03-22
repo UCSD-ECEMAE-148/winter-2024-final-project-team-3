@@ -33,7 +33,6 @@ Team 3 Winter 2024
             <li><a href="#open-source-parts">Open Source Parts</a></li>
           </ul>
         <li><a href="#electronic-hardware">Electronic Hardware</a></li>
-        <li><a href="autonomous-laps">Autonomous Laps</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -103,12 +102,6 @@ Here are our final versions of these open source parts:
 Below is a circuit diagram of the electronic hardware setup for the car.
 
 <img src="images\electronic_hardware.png">
-
-
-### Autonomous Laps
-Below is a youtube playlist of the car completing 3 autonomous laps using the DonkeyCar framework under different conditions. 
-
-[<img src="images\playlist.png">](vid link)
 
 ## Acknowledgments
 *Thank you to team Quack Sack, Professor Jack Silberman, and our top tier TA Arjun Naageshwaran for an amazing Winter 2024 class!*
