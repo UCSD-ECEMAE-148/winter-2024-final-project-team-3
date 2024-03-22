@@ -80,9 +80,9 @@ Project Quack Sack seeks to develop an object-following robot. Our car is progra
 [<img src="images\IMG_2310.png" width="400" height="300" />]
 
 #### Printed Parts and Base Plate Design
-| Camera Mount |  Jetson Mount | Base Plate |
-:-------------------------:|:-------------------------:|:-------------------------:
-[<img src="images\Camera_Mount.png" width="300" height="300" />]  |  [<img src="images\Bottom_camera_mount.png">] | [<img src="images\base_plate.png" width="300" height="300" />]
+| Camera Mount | Base Plate |
+:-------------------------:|:-------------------------:|
+[<img src="images\Camera_Mount.png" width="300" height="300" />] | [<img src="images\base_plate.png" width="300" height="300" />]
 
 #### Open Source Parts
 We utilized a wild duck model from Thingiverse found here: (https://www.thingiverse.com/thing:4797920)
