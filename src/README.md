@@ -16,4 +16,5 @@ This Python script defines the `RoboflowOakNode` class, which inherits from the 
 Usage
 To run the `duck_model.py` script, navigate to the `ros2_ws` directory and execute the following command:
   > ```ros2 launch ucsd_robocar_nav2_pkg all_nodes.launch.py```
+
 This will start `RoboflowOakNode` and begin the object detection and control process.
