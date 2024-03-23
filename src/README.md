@@ -1,4 +1,4 @@
-duck_pkg
+#duck_pkg
 
 This ROS2 package is designed to control and navigate a robot toward a detected duck using object detection and PID control.
 
