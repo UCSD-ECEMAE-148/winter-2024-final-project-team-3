@@ -19,7 +19,7 @@ class RoboflowOakNode(Node):
 
     # Instantiate RoboflowOak object
     self.rf = RoboflowOak(model="duck-locator", confidence=0.89, overlap=0.5,
-                version="4", api_key="kRDWKAMr0bBMM48sYY2L", rgb=True,
+                version="4", api_key="INSERT API KEY", rgb=True,
                 depth=False, device=None, blocking=True)
 
     # Publishers for sending control commands
